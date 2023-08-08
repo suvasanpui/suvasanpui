@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/suvasanpui/web_development_project](https://github.com/suvasanpui/web_development_project)
 
-- 📫 How to reach me **suvasanpui@gmail.com**
+- 📫 How to reach me **suvasanpui74@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/jobs/application-settings/?hideTitle=true](https://www.linkedin.com/jobs/application-settings/?hideTitle=true)
 
