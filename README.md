@@ -2,7 +2,6 @@
 <h3 align="center">Currently parsuing B.Tech in Information Technology</h3>
 
 <br>
-<br>
 - 🌱 I’m currently learning ** MERN stack Technology.**
 
 
