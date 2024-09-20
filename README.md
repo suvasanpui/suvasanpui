@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/suva-sanpui-1668b2231/" target="_blank" style="margin-right: 10px;"><img src="https://github.com/user-attachments/assets/0dab6c0a-8aa3-4281-b304-3806a1e9e839" alt="linkedin" height="40" width="40"/></svg></a>   <a href="mailto:suvasanpui74@gmail.com" target="_blank" style="margin-right: 10px;"><img src="https://github.com/user-attachments/assets/2e3d3950-5f24-403c-acd1-ec19dc4c87d2" alt="gmial" height="40" width="40"/></svg></a>   <a href="https://github.com/suvasanpui" target="_blank" style="margin-right: 10px;"><img src="https://github.com/user-attachments/assets/10463823-e805-4b70-bd2c-5273776fcd50" alt="git" height="40" width="40"/></svg>
+<a href="https://www.linkedin.com/in/suva-sanpui-1668b2231/" target="_blank" style="margin-right: 50px;"><img src="https://github.com/user-attachments/assets/0dab6c0a-8aa3-4281-b304-3806a1e9e839" alt="linkedin" height="40" width="40"/></svg></a>   <a href="mailto:suvasanpui74@gmail.com" target="_blank" style="margin-right: 10px;"><img src="https://github.com/user-attachments/assets/2e3d3950-5f24-403c-acd1-ec19dc4c87d2" alt="gmial" height="40" width="40"/></svg></a>   <a href="https://github.com/suvasanpui" target="_blank" style="margin-right: 10px;"><img src="https://github.com/user-attachments/assets/10463823-e805-4b70-bd2c-5273776fcd50" alt="git" height="40" width="40"/></svg>
 </a></p>
   
 
