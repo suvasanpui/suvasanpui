@@ -20,7 +20,7 @@
   </div>
   <div>
     <p align="left">
-    <a href="https://www.linkedin.com/in/suva-sanpui-1668b2231/" target="blank"><img src="https://github.com/user-attachments/assets/e0f44bbb-fea4-45fa-b8a7-           bf118dde7bd0" height="40" width="40"/></svg></a>
+    <a href="https://www.linkedin.com/in/suva-sanpui-1668b2231/" target="blank"><img src="https://github.com/user-attachments/assets/10463823-e805-4b70-bd2c-5273776fcd50" height="40" width="40"/></svg></a>
     </p>
   </div>
 </div>
