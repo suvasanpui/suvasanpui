@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/suva-sanpui-1668b2231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suva-sanpui" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/suva-sanpui-1668b2231/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logo.wine%2Flogo%2FLinkedIn&psig=AOvVaw1_VLTKWc06JEaKkR18YWYT&ust=1726943835441000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDVuKiV0ogDFQAAAAAdAAAAABAE" alt="suva-sanpui" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
