@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/suva-sanpui-1668b2231/" target="blank"><img src="https://github.com/user-attachments/assets/21dcf1a5-a46e-4872-8541-3ca18614d79e" height="40" width="40"/></svg></a> <a href="https://github.com/suvasanpui" target="blank"><img src="https://github.com/user-attachments/assets/10463823-e805-4b70-bd2c-5273776fcd50" height="40" width="40"/></svg>
+<a href="https://www.linkedin.com/in/suva-sanpui-1668b2231/" target="blank"><img src="https://github.com/user-attachments/assets/0dab6c0a-8aa3-4281-b304-3806a1e9e839" height="40" width="40"/></svg></a>   <a href="mailto:suvasanpui74@gmail.com" target="blank"><img src="https://github.com/user-attachments/assets/2e3d3950-5f24-403c-acd1-ec19dc4c87d2" height="40" width="40"/></svg></a>   <a href="https://github.com/suvasanpui" target="blank"><img src="https://github.com/user-attachments/assets/10463823-e805-4b70-bd2c-5273776fcd50" height="40" width="40"/></svg>
 </a></p>
   
 
