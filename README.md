@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suva Sanpui</h1>
-<h3 align="center">Currently parsuing B-Tech in Information Technology</h3>
+<h3 align="center">Currently parsuing B.Tech in Information Technology</h3>
 
 <br>
 <br>
-- 🌱 I’m currently learning **advance java,PHP,JS etc.**
+- 🌱 I’m currently learning ** MERN stack Technology.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/suvasanpui/web_development_project](https://github.com/suvasanpui/web_development_project)
+- 👨‍💻 All of my projects are available at [https://github.com/suvasanpui/web_development_project](https://github.com/suvasanpui)
 
 - 📫 How to reach me **suvasanpui74@gmail.com**
 
