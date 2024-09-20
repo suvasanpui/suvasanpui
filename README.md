@@ -15,7 +15,7 @@
 <div style="flex">
   <div>
     <p align="left">
-    <a href="https://www.linkedin.com/in/suva-sanpui-1668b2231/" target="blank"><img src="https://github.com/user-attachments/assets/e0f44bbb-fea4-45fa-b8a7-           bf118dde7bd0" height="40" width="40"/></svg></a>
+    <a href="https://www.linkedin.com/in/suva-sanpui-1668b2231/" target="blank"><img src="https://github.com/user-attachments/assets/21dcf1a5-a46e-4872-8541-3ca18614d79e" height="40" width="40"/></svg></a>
     </p>
   </div>
   <div>
