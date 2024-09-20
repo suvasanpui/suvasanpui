@@ -5,11 +5,7 @@
 <br>
 - 🌱 I’m currently learning ** MERN stack Technology.**
 
-- 🌱 All of my projects are available at [GitHub](https://github.com/suvasanpui)
 
-- 🌱 How to reach me **suvasanpui74@gmail.com**
-
-- 🌱 Know about my experiences [Linkedin](https://www.linkedin.com/in/suva-sanpui-1668b2231/)
 
 <h3 align="left">Connect with me:</h3>
 
