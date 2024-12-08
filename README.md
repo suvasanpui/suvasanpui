@@ -25,7 +25,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://www.leetcode.com/https://leetcode.com/u/suvasanpui74/" target="_blank">
+        <a href="https://leetcode.com/u/suvasanpui74/" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode"                 height="40"             width="40"/>
         </a>
       </td>
