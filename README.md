@@ -3,11 +3,22 @@
 
 <h3>🌱Passionate About MERN Stack Development and Beyond</h3> 
 
-<br>
+<img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" align="right" alt="codig" width="400"></img>
 
-<div align="center">
-  <h3>✅Connect with me:</h3>
-  <table style="border: 2px solid green; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suvasanpui&label=Profile%20views&color=0e75b6&style=flat" alt="suvasanpui" /> </p>
+
+- 🌱 I’m currently learning **PostgreSQL**
+
+- 👯 Explore My Work [Voting System](https://vote-now-71kj-ui.vercel.app)
+
+- 👨‍💻 All of my projects are available at [https://portfoliosuva.vercel.app/](https://portfoliosuva.vercel.app/)
+
+- 📫 How to reach me **suvasanpui74@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/13tNO51trdiRdaE6xFnOHvIBuPL36yeZ1/view?usp=drive_link](https://drive.google.com/file/d/13tNO51trdiRdaE6xFnOHvIBuPL36yeZ1/view?usp=drive_link)
+
+<h3 align="left">Connect with me:</h3>
+<table style="border: 2px solid green; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
     <tr>
       <td align="center">
         <a href="https://www.linkedin.com/in/suva-sanpui-1668b2231/" target="_blank">
@@ -26,11 +37,12 @@
       </td>
     </tr>
   </table>
-</div>
 
-<div align="center">
-  <h3>✅Connect with me:</h3>
-  <table style="border: 2px solid green; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
+  
+
+
+<h3 align="left">Language & Tools:</h3>
+<table style="border: 2px solid green; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
     <tr>
       <td align="center">
         <a href="#" target="_blank">
@@ -80,6 +92,9 @@
     </tr>
   </table>
 
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suvasanpui&show_icons=true&locale=en&layout=compact" alt="suvasanpui" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suvasanpui&show_icons=true&locale=en&layout=compact" alt="suvasanpui" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suvasanpui&show_icons=true&locale=en" alt="suvasanpui" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suvasanpui&" alt="suvasanpui" /></p>
+
