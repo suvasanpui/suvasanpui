@@ -1,3 +1,4 @@
+![logo](https://github.com/suvasanpui/suvasanpui/blob/main/git-banner.png)
 <h1 align="center">Hi 👋, I'm Suva Sanpui</h1>
 <h2 align="center">B.Tech Student in Information Technology | Passionate About Web Development</h2>
 
