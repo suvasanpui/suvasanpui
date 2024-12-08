@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Suva Sanpui</h1>
 <h2 align="center">B.Tech Student in Information Technology | Passionate About Web Development</h2>
 
-<h3>🌱Passionate About MERN Stack Development and Beyond</h3> 
-
 <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" align="right" alt="codig" width="400"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suvasanpui&label=Profile%20views&color=0e75b6&style=flat" alt="suvasanpui" /> </p>
@@ -27,13 +25,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="mailto:suvasanpui74@gmail.com" target="_blank">
-          <img src="https://github.com/user-attachments/assets/2e3d3950-5f24-403c-acd1-ec19dc4c87d2" alt="gmail" height="40" width="40"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/suvasanpui" target="_blank">
-          <img src="https://github.com/user-attachments/assets/10463823-e805-4b70-bd2c-5273776fcd50" alt="git" height="40" width="40"/>
+        <a href="https://www.leetcode.com/https://leetcode.com/u/suvasanpui74/" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode"                 height="40"             width="40"/>
         </a>
       </td>
     </tr>
@@ -45,27 +38,7 @@
 <h3 align="left">Language & Tools:</h3>
 <table style="border: 2px solid green; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
     <tr>
-      <td align="center">
-        <a href="#" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40" width="40"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="#" target="_blank">
-          <img src="https://github.com/user-attachments/assets/e462ce1c-3e91-4435-b26d-0832477ab33f" alt="java" height="40" width="40"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="#" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" height="40" width="40"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="#" target="_blank">
-          <img src="https://github.com/user-attachments/assets/fbe0b763-acf3-4b32-941a-677c8ae4a640" alt="php" height="40" width="40"/>
-        </a>
-      </td>
-      <td align="center">
+        <td align="center">
         <a href="#" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" height="40" width="40"/>
         </a>
@@ -75,14 +48,39 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40" width="40"/>
         </a>
       </td>
-       <td align="center">
+        <td align="center">
+        <a href="#" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" height="40" width="40"/>
+        </a>
+      </td>
+         <td align="center">
+        <a href="#" target="_blank">
+          <img src="https://github.com/user-attachments/assets/ce320ff9-e8b9-47ff-b0cd-1fcb94c9c4d5" alt="node" height="40" width="40"/>
+        </a>
+      </td>
+        <td align="center">
         <a href="#" target="_blank">
           <img src="https://github.com/user-attachments/assets/9d0473a6-7a97-43d7-a73e-ccb45e8ee9db" alt="react" height="40" width="40"/>
         </a>
       </td>
+        <td align="center">
+        <a href="#" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="40" width="40"/>
+        </a>
+      </td>
       <td align="center">
         <a href="#" target="_blank">
-          <img src="https://github.com/user-attachments/assets/ce320ff9-e8b9-47ff-b0cd-1fcb94c9c4d5" alt="node" height="40" width="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="40" width="40"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#" target="_blank">
+          <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="next" height="40" width="40"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#" target="_blank">
+          <img src="https://github.com/user-attachments/assets/e462ce1c-3e91-4435-b26d-0832477ab33f" alt="java" height="40" width="40"/>
         </a>
       </td>
       <td align="center">
@@ -98,4 +96,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suvasanpui&show_icons=true&locale=en" alt="suvasanpui" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suvasanpui&" alt="suvasanpui" /></p>
+
 
