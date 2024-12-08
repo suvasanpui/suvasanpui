@@ -90,10 +90,7 @@
       </td>
     </tr>
   </table>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suvasanpui&show_icons=true&locale=en&layout=compact" alt="suvasanpui" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suvasanpui&show_icons=true&locale=en" alt="suvasanpui" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suvasanpui&show_icons=true&locale=en&layout=compact" alt="suvasanpui" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suvasanpui&" alt="suvasanpui" /></p>
 
